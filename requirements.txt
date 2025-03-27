@@ -1,0 +1,17 @@
+deepdish==0.3.7
+fitz==0.0.1.dev2
+gevent==24.11.1
+keras==3.8.0
+matplotlib==3.8.4
+numpy==2.2.4
+pandas==2.2.3
+Pillow==11.1.0
+scikit_learn==1.4.2
+scipy==1.15.2
+streamlit==1.41.1
+streamlit==1.37.1
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+tqdm==4.66.4
+Werkzeug==3.1.3
+wfdb==4.2.0
